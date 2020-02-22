@@ -21,4 +21,5 @@ Other start dates than the default one will not be supported.
 
 The script for generating the mod is open source at:
 https://github.com/N00byEdge/ProvincesAreCountries
+
 Place it in EU4 folder, it has to be run on Linux with "./Shatter.py ."
