@@ -1,5 +1,8 @@
 This mod makes so that every owned province at game start date is now an independent country.
 
+Want to just go and play right now?
+It's also available in the steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=905033730
+
 This is a self writing mod, it writes itself with a custom script I wrote.
 
 The game requires a lot of processing power when running this many countries. Make sure you have a decently specced PC and/or turn down the graphics.
